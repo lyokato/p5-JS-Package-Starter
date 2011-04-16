@@ -1,0 +1,10 @@
+JS-Package-Starter version 0.01
+===============================
+
+Generate JS package template for me.
+
+* USAGE
+
+jspackage --project foo
+cd foo
+./phantomjs_test.sh
